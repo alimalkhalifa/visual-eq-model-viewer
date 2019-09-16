@@ -1,5 +1,7 @@
 # Visual EQ Model Viewer
 
+Visual EQ Model Viewer is a react component to view Everquest models in glTF format
+
 ## Properties
 
 | Property   | Description             | Validation              | Example                          |
