@@ -6,6 +6,6 @@
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "three": "^0.107.0"
+    "three": "^0.137.0"
   }
 }
